@@ -1,14 +1,14 @@
 [![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)
 <h1 align="center">Hi 👋, I'm Shaheer Amjad</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaheermian45&label=Profile%20views&color=0e75b6&style=flat" alt="shaheermian45" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shaheer_themian" target="blank"><img src="https://img.shields.io/twitter/follow/shaheer_themian?logo=twitter&style=for-the-badge" alt="shaheer_themian" /></a> </p>
 
-- 🔭 I’m currently working on **Front-End**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **New Tech**
 
 - 💬 Ask me about **react, bootstrap and js**
 
