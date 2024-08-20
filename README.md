@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shaheer Amjad</h1>
 <h3 align="center">Crafting Seamless User Experiences</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaheeramjad&label=Profile%20views&color=0e75b6&style=flat" alt="shaheeramjad" /> </p>
+
 - 🔭 I’m currently working on **Software Development**
 
 - 🌱 I’m currently learning **System Design, DevOps**
